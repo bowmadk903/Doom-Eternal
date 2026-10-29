@@ -241,4 +241,4 @@ DOOM Eternal is available as a full free version with all features and updates i
 **Download DOOM Eternal now and unleash your inner Slayer! Experience the ultimate thrill in FPS gaming today!**
 
 ---
-**Last updated:** 2026-10-28 21:27:30 UTC
+**Last updated:** 2026-10-29 01:26:18 UTC
